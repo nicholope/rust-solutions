@@ -1,0 +1,13 @@
+/root/github-repos/rust-solutions/hello/target/debug/deps/assert_cmd-b88c077a3a1f34b0.rmeta: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/assert.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/cargo.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/cmd.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/output.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/color.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/../README.md
+
+/root/github-repos/rust-solutions/hello/target/debug/deps/libassert_cmd-b88c077a3a1f34b0.rlib: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/assert.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/cargo.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/cmd.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/output.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/color.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/../README.md
+
+/root/github-repos/rust-solutions/hello/target/debug/deps/assert_cmd-b88c077a3a1f34b0.d: /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/lib.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/assert.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/cargo.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/cmd.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/output.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/color.rs /root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/../README.md
+
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/lib.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/assert.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/cargo.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/cmd.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/output.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/color.rs:
+/root/.cargo/registry/src/github.com-1ecc6299db9ec823/assert_cmd-2.0.6/src/../README.md:
